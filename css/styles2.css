@@ -99,7 +99,7 @@ footer img   {
     min-height: 800px;
     text-align: center;
     background: #555;
-    background-image: url('../background.jpg'); /* use image file as background */ 
+    background-image: url('https://www.google.com/search?biw=1098&bih=475&tbm=isch&sa=1&ei=y1o3XeWWMcK1rQHSy4b4Bw&q=scenery&oq=sc&gs_l=img.3.0.35i39j0i67j0l2j0i67j0l2j0i67j0l2.20052.23469..24588...0.0..3.227.1114.1j6j1......0....1..gws-wiz-img.....0.R_4nF-_uYCY#imgrc=OHJ4fMBye4D6_M:'); /* use image file as background */ 
     /* The background-size CSS property specifies the size of the element's background image. The image can be left to its natural size, stretched to a new size, or constrained to fit the available space while preserving its intrinsic proportions. */
       /* cover - Scales the image as large as possible without stretching the image. If the proportions of the image differ from the element, it is cropped either vertically or horizontally so that no empty space remains. */
     background-size: cover; 
